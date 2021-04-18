@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utsav
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on making web pages and new websites.
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning web and app development
+- 💞️ I’m looking to collaborate on making web pages ,new websitesand app using flutter.
 - 📫 You can reach me @utsavporwal01@gmail.com
 
 <!---
